@@ -4,7 +4,8 @@ main:
     url: /about/
   - title: "Natural Language Processing"
     url: /natural-language-processing/
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: Quick Start
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
